@@ -1,3 +1,3 @@
-FROM nginx:latest
+FROM nginx:1.11.1
 
 EXPOSE 80 443
